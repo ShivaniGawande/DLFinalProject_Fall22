@@ -19,7 +19,7 @@
     3. RNN + LSTM
     4. Fine tuned BERT with BertWordPieceTokenizer
 
-   All these models are implemented for both "Political Sarcastic tweets by ETS" and merged data (Political Sarcastic tweets by ETS + News Headlines Dataset for Sarcasm Detection). 
+   All these models are implemented on both "Political Sarcastic tweets by ETS" and merged data (Political Sarcastic tweets by ETS + News Headlines Dataset for Sarcasm Detection). 
     
 # System Requirements
 
