@@ -20,13 +20,14 @@ This implementation is inspired by the work presented in 'Modelling Context with
 All these models are implemented for both "Political Sarcastic tweets by ETS" and merged data (Political Sarcastic tweets by ETS + News Headlines Dataset for Sarcasm Detection). 
     
 #System Requirements
-  python 2.7
-  python package gensim
-  python package transformers
-  python package torch
-  python package tokenizers
-  python package nltk
-  python package tensorflow
+
+    python 2.7
+    python package gensim
+    python package transformers
+    python package torch
+    python package tokenizers
+    python package nltk
+    python package tensorflow
 
 
 
