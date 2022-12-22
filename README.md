@@ -5,7 +5,7 @@
 
 # Datasets:
 
-    1. Political Sarcastic tweets by ETS
+    1. ETS - Sarcasm in Political Tweets dataset
       https://raw.githubusercontent.com/EducationalTestingService/sarcasm/master/twitter/sarcasm_detection_shared_task_twitter_training.json
     2. News Headlines Dataset for Sarcasm Detection (collected from "TheOnion" and "HuffPost")
       https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection?select=Sarcasm_Headlines_Dataset_v2.json
